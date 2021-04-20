@@ -19,7 +19,7 @@ My name is Aaron and I'm a guy who lives in Portland, Oregon and works on comput
 - Develop low-code/no-code products
 - Maintain privacy through encryption and security
 
-_I used to work at [Bumped](https://bumped.com) as an Engineering Director.  Currently taking some time off to reflect on life, make plans and prepare for my next role._
+_Currently work at [Chime](https://chime.com) as an Engineering Manager.  I used to work at [Bumped](https://bumped.com) as an Engineering Director.  Currently taking some time off to reflect on life, make plans and prepare for my next role._
 <!--
 **akwirick/akwirick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
