@@ -11,6 +11,7 @@ My name is Aaron and I'm a guy who lives in Portland, Oregon and works on comput
 
 #### 🌱 I’m currently learning to...
 - Bake a perfect bundt cake
+- Make different styles of pizza from scratch
 - Generate realistic language from ML models
 - Write more effectively
 - More effectively manage and lead teams
