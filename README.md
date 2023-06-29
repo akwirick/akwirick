@@ -12,14 +12,10 @@ My name is Aaron and I'm a guy who lives in Portland, Oregon and works on comput
 - My last name is pronounced _WHY rick_
 
 #### 🌱 I’m currently learning to...
-- Bake a perfect bundt cake
-- Make different styles of pizza from scratch
-- Generate realistic language from ML models
-- Write more effectively
-- More effectively manage and lead teams
-- Shift workloads further out on the edge
-- Model event flows more robustly
-- Develop low-code/no-code products
-- Maintain privacy through encryption and security
+- Write applications in Rust, work without a Garbage Collector
+- Integrate AI tools safely into development workflow
+- Accelerate the idea to prototype phase of development
+- Apply my research background to product development
+- Play guitar and understand music theory
 
 _Currently work at [Chime](https://chime.com) as an Engineering Manager._
