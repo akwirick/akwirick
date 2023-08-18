@@ -18,4 +18,4 @@ My name is Aaron and I'm a guy who lives in Portland, Oregon and works on comput
 - Apply my research background to product development
 - Play guitar and understand music theory
 
-_Currently work at [Chime](https://chime.com) as an Engineering Manager._
+_Currently self-employed at Source Main LLC - My consulting company._
